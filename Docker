@@ -19,9 +19,6 @@ resource "aws_vpc" "example" {
 
 
 
-
-
-
 data "aws_iam_policy" "example" {
   name = "AmazonRedshiftAllCommandsFullAccess"
 }
