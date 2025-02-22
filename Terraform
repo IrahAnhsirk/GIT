@@ -58,9 +58,3 @@ resource "aws_appflow_connector_profile" "example" {
     }
   }
 } 
-
-
-
-
-
-This is test purpose
