@@ -173,3 +173,6 @@ resource "aws_appflow_flow" "example" {
     trigger_type = "OnDemand"
   }
 }
+
+
+
