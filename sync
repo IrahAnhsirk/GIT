@@ -1,0 +1,9 @@
+This is an file to use for sync
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+
